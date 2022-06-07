@@ -153,6 +153,9 @@ pre {
   margin: 1.25rem 0;
   overflow-x: auto; }
 
+img {
+  border-radius: 18px; }
+
 .screen-reader-text {
   clip: rect(1px, 1px, 1px, 1px);
   clip-path: inset(50%);
@@ -640,7 +643,7 @@ pre {
   /* TextWhitespace */ }
   [data-theme="dark"]:root img,
   [data-theme="dark"]:root .subheader {
-    filter: brightness(0.8) contrast(1.2); }
+    filter: brightness(1) contrast(1); }
   [data-theme="dark"]:root .nav-btn {
     filter: invert(1); }
   [data-theme="dark"]:root .content p,
