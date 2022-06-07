@@ -1,0 +1,72 @@
+baseURL = "https://ajthedm.com/"
+languageCode = "en"
+title = "AJ the DM"
+theme = "hugo-themes-ava"
+paginate = 7
+mainSections = "post"
+
+[languages]
+  [languages.en]
+      languageName = "English"
+
+enableEmoji = true
+enableRobotsTXT = true
+canonifyURLs = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+    
+[params]
+  ga_id=""
+  mainSections = ["post"]
+  
+
+  [params.meta_tags]
+    meta_description = "Ava is a light theme for your blog with essential features you might dig in."
+    meta_og_title = "AJ the DM"
+    meta_og_sitename = "AJ the DM"
+    meta_og_type = "website"
+    meta_og_url = "https://ajthedm.com"
+    meta_og_image = "https://images.unsplash.com/photo-1623333769926-a34d46b5fbdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80"
+    meta_og_description = "Rookie DM notes and lessons learned."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@ajkueterman"
+    meta_twitter_creator = "@ajkueterman"
+
+[markup]
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = true
+        lineNos = false
+        tabWidth = 4
+        noClasses = false
+        pygmentsUseClasses = true
+        pygmentsCodefences = true
+
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe= true   
+
+    [markup.blackFriday]
+        angledQuotes = true
+
+[[menu.main]]
+	name = "Home"
+	url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Archives"
+    url = "/posts/"
+    weight = 3
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
