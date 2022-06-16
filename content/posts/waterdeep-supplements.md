@@ -55,6 +55,8 @@ So if you can avoid spending the extra [dragons](https://forgottenrealms.fandom.
 
 So you unfurl the poster map of Waterdeep to see the insane level of detail in this city and your brain is probably reeling as you imagine what to fill it with. You may have some ideas for a spare NPC or side quest, but figuring out hooks for this whole world is a daunting task.
 
+![children cheer on the griffon calvary flying above the streets of waterdeep](/images/waterdeep/city-encounters.png)
+
 Enter [*Waterdeep: City Encounters*](https://www.dmsguild.com/product/251816/Waterdeep-City-Encounters), an amazing supplement for any Waterdeep-based campaign or Sword Coast adventure that includes the City of Splendors. Brought to you by an amazing team of authors & Guild Adepts on the [Dungeon Masters Guild](https://www.dmsguild.com/), this supplement offers over ***100*** encounters that are set throughout the city.
 
 The module offers two flavors of encounters - a table of random encounters that change based on what ward your characters are currently exploring, and a dense set of location-based encounters. 
@@ -69,6 +71,18 @@ Overall, I think *Waterdeep: City Encounters* is a must-have supplement to *Drag
 
 This adventure can be seen as a prologue to the epic dungeon crawl that is [*Waterdeep: Dungeon of the Mad Mage*](https://dnd.wizards.com/products/tabletop-games/rpg-products/waterdeep-dungeon-mad-mage). Despite that, *Dragon Heist* is actually somewhat light on dungeon-crawling. The structure is a bit more encounter-based, allowing your characters to explore and bounce around as they unfurl the plot.
 
-[Blue Alley Map](https://www.dmsguild.com/product/348057/Blue-Alley-Map)
+![blue alley cover](/images/waterdeep/blue-alley-cover.png)
+
+So if you're looking for a way to spice up the side-quests for your characters and offer some extremely solid dungeon-crawling, you need to pick up [***Blue Alley***](https://www.dmsguild.com/product/252855/Blue-Alley) on the DM's Guild.
+
+In *Blue Alley*, your adventurers are tempted with gold & glory by none other than [Mirt](https://forgottenrealms.fandom.com/wiki/Mirt) - offering you an easy hook into *Dragon Heist*, especially if your characters have forged a connection with [The Harpers](https://forgottenrealms.fandom.com/wiki/Harpers). The dungeon offers an array of traps, puzzles, monsters, and treasures to unfold. It is unique and varied in its challenges, and should offer possibilities for further side-quest hooks if you want to get creative.
+
+#### [Blue Alley Map](https://www.dmsguild.com/product/348057/Blue-Alley-Map)
+
+If you want to spice up your dungeon-dive with some amazing improved maps, I also highly recommend the [*Blue Alley* Map](https://www.dmsguild.com/product/348057/Blue-Alley-Map) supplement as well. They are complete with beautiful lighting & improved assets to help spruce up your VTT version of the game.
 
 ## Maps
+
+If you're running the game in-person, a [grid board](https://www.amazon.com/dp/B0742H1FJ1?ref_=cm_sw_r_cp_ud_dp_S2WEPWWQS1E7DSTWP9TB) and [wet erase markers](https://www.amazon.com/EXPO-Vis-%C3%A0-Vis-Markers-Assorted-Colors/dp/B08QSK3RH4) are your absolute best friend. However if you're running the game on a virtual table top and are looking for ways to expand on the maps included in the adventure, check out a few of these excellent mapping resources.
+
+![fantasy map](/images/waterdeep/fantasy-map.jpeg)
