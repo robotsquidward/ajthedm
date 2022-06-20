@@ -86,3 +86,31 @@ If you want to spice up your dungeon-dive with some amazing improved maps, I als
 If you're running the game in-person, a [grid board](https://www.amazon.com/dp/B0742H1FJ1?ref_=cm_sw_r_cp_ud_dp_S2WEPWWQS1E7DSTWP9TB) and [wet erase markers](https://www.amazon.com/EXPO-Vis-%C3%A0-Vis-Markers-Assorted-Colors/dp/B08QSK3RH4) are your absolute best friend. However if you're running the game on a virtual table top and are looking for ways to expand on the maps included in the adventure, check out a few of these excellent mapping resources.
 
 ![fantasy map](/images/waterdeep/fantasy-map.jpeg)
+
+#### [Dyson Logos](https://dysonlogos.blog/)
+
+The sole map illustrator for *Dragon Heist* is [Dyson Logos](https://dysonlogos.blog/about/) - a legendary RPG map-maker with hundreds of free maps and many more resources for patrons, plus full books of maps for sale online.
+
+If you're interesting in expanding on the existing maps in this module, his website is a great resource for random battle maps and maps to inspire fun side quests or mini-dungeons. A few sections on his website highlight some especially useful categories, including [Inns and Taverns](https://dysonlogos.blog/maps/inns-and-taverns/) and [Sewers](https://dysonlogos.blog/maps/sewers/), that blend easily into the urban setting.
+
+#### [Cze and Peku Maps](https://www.czepeku.com/)
+
+Another great D&D map-making site, Cze and Peku make beautiful maps for all sorts of games. From the Astral Sea to an encounter with an Elder being to a lovely day by the lake shore, they have drawn a map for any situation.
+
+Simply [searching by the 'city' keyword](https://www.czepeku.com/search?q=city) brings up dozens of amazing maps that would slot easily into *Dragon Heist*. And at ~$5 a map they can be an affordable way to expand your version of Waterdeep and add that level of immersion we're all searching for.
+
+#### [Dice Grimorium](https://dicegrimorium.com/)
+
+If you're looking for a bank of free, full-color battle maps to have at the ready for any encounter, the [Dice Grimorium free catalog](https://dicegrimorium.com/free-rpg-map-library/) is just that.
+
+George works to create a new map each week, most of which he amazingly shares for free on his site and social media. In addition you can support him on Patreon and get additional tokens for each map (perfect for your VTT) and even the original PSD files in case you have map-customization aspirations.
+
+## Closing Thoughts
+
+As a DM, you can never do enough preparation. I hope this guide has helped give you some resources, ideas, or inspiration for your next adventure to the *City of Splendors*. Don't let this beautiful gem of the Sword Coast intimidate you, and make it into what you want.
+
+![d20 on table](/images/waterdeep/d20-amber.jpeg)
+
+As always, the act of DM'ing is more an art than a science. Remember to improvise. Remember to let your players lead. And remember to have fun!
+
+Good luck out there! If you have thoughts, feedback, or suggestions for future posts - let me know on Twitter [@ajkueterman](https://twitter.com/ajkueterman).
