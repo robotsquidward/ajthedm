@@ -1,3 +1,3 @@
-[submodule "themes/hugo-themes-ava"] 
-  path = themes/hugo-themes-ava 
-  url = https://github.com/robotsquidward/hugo-theme-ava.git
+[submodule "hugo-theme-ava"]
+	path = hugo-theme-ava
+	url = https://github.com/robotsquidward/hugo-theme-ava.git
