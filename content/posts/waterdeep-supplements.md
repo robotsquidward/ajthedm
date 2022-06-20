@@ -1,7 +1,7 @@
 ---
 title: "Make 'Dragon Heist' Your Own"
 description: "Supplements and ideas for your next sprawling urban campaign."
-date: 2022-06-07
+date: 2022-06-19
 type: "post"
 draft: false
 ---
